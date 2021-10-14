@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\13.09.21\13.09.21\bin\Debug\13.09.21.exe.config
+C:\Users\Lenovo\source\repos\13.09.21\13.09.21\bin\Debug\13.09.21.exe
+C:\Users\Lenovo\source\repos\13.09.21\13.09.21\bin\Debug\13.09.21.pdb
+C:\Users\Lenovo\source\repos\13.09.21\13.09.21\obj\Debug\13.09.21.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\13.09.21\13.09.21\obj\Debug\_13._09._21.Form1.resources
+C:\Users\Lenovo\source\repos\13.09.21\13.09.21\obj\Debug\_13._09._21.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\13.09.21\13.09.21\obj\Debug\13.09.21.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\13.09.21\13.09.21\obj\Debug\13.09.21.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\13.09.21\13.09.21\obj\Debug\13.09.21.exe
+C:\Users\Lenovo\source\repos\13.09.21\13.09.21\obj\Debug\13.09.21.pdb
+C:\Users\Lenovo\source\repos\13.09.21\13.09.21\obj\Debug\_13._09._21.Form2.resources
